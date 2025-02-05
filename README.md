@@ -31,10 +31,6 @@
 
 ###
 
-<img align="right" height="145" src="https://avatars.githubusercontent.com/u/184865652?s=400&u=c75eb32b453d52b89a24334791f84735af41c166&v=4"  />
-
-###
-
 <img src="https://raw.githubusercontent.com/connorb923/connorb923/output/snake.svg" alt="Snake animation" />
 
 ###
