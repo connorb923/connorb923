@@ -2,7 +2,14 @@
 
 ###
 
-<p align="left">Hi!</p>
+Hello! My name is Connor B. 
+
+I am a
+- Programmer
+- 8th Grade Student
+- Writer
+- State Qualified (1/3 times as of 7/2/25) in MLFA Forensics
+- Christian
 
 ###
 
